@@ -1,7 +1,7 @@
 # name: Ali
 # date: 07/07/2016
 # description: small program that lets you choose between flipping a coin and rolling dice with sides
-# and roll amounts controlled. Im
+# and roll amounts controlled. planning on implementing on discord maybe someday probably i hope.
 
 import random
 import time
